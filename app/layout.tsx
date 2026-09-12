@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Rivera | Full-Stack Software Engineer & UI Architect",
-  description: "Professional portfolio showcasing web development projects, technical skills, interactive CLI terminal, career experience, and contact channels.",
-  keywords: ["Software Engineer", "Full-Stack Developer", "Next.js", "React", "TypeScript", "Tailwind CSS", "Portfolio"],
+  title: "Vansh Sharma | Frontend Developer & Full-Stack Engineer",
+  description: "Professional portfolio of Vansh Sharma — Frontend & Full-Stack Engineer specializing in Next.js, React, MERN/PERN stack, and AI SaaS applications.",
+  keywords: ["Vansh Sharma", "Frontend Developer", "Full-Stack Engineer", "Next.js", "React", "TypeScript", "Tailwind CSS", "MERN Stack", "Portfolio"],
 };
 
 export default function RootLayout({
